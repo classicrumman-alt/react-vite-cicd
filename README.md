@@ -9,6 +9,8 @@ Currently, two official plugins are available:
 
 https://classicrumman-alt.github.io/react-vite-cicd/
 
+![Build](https://github.com/classicrumman-alt/react-vite-cicd/actions/workflows/deploy.yml/badge.svg)
+
 ## React Compiler
 
 The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
