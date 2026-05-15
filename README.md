@@ -6,10 +6,21 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-https://classicrumman-alt.github.io/react-vite-cicd/
+# React Vite CI/CD
 
 ![Build](https://github.com/classicrumman-alt/react-vite-cicd/actions/workflows/deploy.yml/badge.svg)
+
+[![Live Demo](https://img.shields.io/badge/demo-live-green)](https://classicrumman-alt.github.io/react-vite-cicd/)
+
+![React](https://img.shields.io/badge/React-19-blue)
+![Vite](https://img.shields.io/badge/Vite-fast-purple)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
+
+Production-ready React + Vite project with:
+- CI/CD
+- Vitest
+- GitHub Actions
+- GitHub Pages deployment
 
 ## React Compiler
 
